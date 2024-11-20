@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true" debug="false">
+    <!-- 设置日志上下文名称 -->
+    <contextName>mock-engine</contextName>
+
+    <!-- 定义变量 -->
+    <property name="LOG_PATH" value="./logs" />
+    <property name="LOG_FILE" value="${LOG_PATH}/mock-engine.log" />
+    <property name="LOG_LEVEL_PATTERN" value="%5p" />
+    <property name="LOGBACK_PATTERN" value="%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger{36} - %msg%n" />
+
+    <!-- 控制台输出 -->
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>${LOGBACK_PATTERN}</pattern>
+        </encoder>
+    </appender>
+
+    <!-- 文件输出 -->
+    <appender name="FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOG_FILE}</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <!-- 日志文件按日期滚动 -->
+            <fileNamePattern>${LOG_PATH}/mock-engine.%d{yyyy-MM-dd}.log</fileNamePattern>
+            <!-- 保留最近30天的日志 -->
+            <maxHistory>30</maxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>${LOGBACK_PATTERN}</pattern>
+        </encoder>
+    </appender>
+
+    <!-- 异常日志输出 -->
+    <appender name="ERROR_FILE" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <file>${LOG_PATH}/mock-engine-error.log</file>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>${LOG_PATH}/mock-engine-error.%d{yyyy-MM-dd}.log</fileNamePattern>
+            <maxHistory>30</maxHistory>
+        </rollingPolicy>
+        <encoder>
+            <pattern>${LOGBACK_PATTERN}</pattern>
+        </encoder>
+        <filter class="ch.qos.logback.classic.filter.LevelFilter">
+            <level>ERROR</level>
+            <onMatch>ACCEPT</onMatch>
+            <onMismatch>DENY</onMismatch>
+        </filter>
+    </appender>
+
+    <!-- 日志级别配置 -->
+    <root level="INFO">
+        <appender-ref ref="CONSOLE" />
+        <appender-ref ref="FILE" />
+        <appender-ref ref="ERROR_FILE" />
+    </root>
+
+    <!-- 针对特定包的日志级别配置 -->
+    <logger name="com.yupaopao.qa" level="DEBUG" additivity="false">
+        <appender-ref ref="CONSOLE" />
+    </logger>
+
+    <logger name="org.springframework" level="WARN" />
+    <logger name="org.apache.dubbo" level="INFO" />
+    <logger name="org.springframework.kafka" level="INFO" />
+</configuration>

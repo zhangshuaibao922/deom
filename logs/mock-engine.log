@@ -1,0 +1,94 @@
+2024-11-20 19:31:35.675 [main] INFO  io.gatling.DeomApplication - Starting DeomApplication using Java 1.8.0_422 on MateBook-Pro.local with PID 19215 (/Users/zhangshuaibao/work/IdeaProjects/deom/target/classes started by zhangshuaibao in /Users/zhangshuaibao/work/IdeaProjects/deom)
+2024-11-20 19:31:35.677 [main] INFO  io.gatling.DeomApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-20 19:31:35.985 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:31:35.985 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-20 19:31:35.985 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.80]
+2024-11-20 19:31:36.011 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-20 19:31:36.158 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:31:36.200 [main] INFO  io.gatling.DeomApplication - Started DeomApplication in 0.671 seconds (JVM running for 0.873)
+2024-11-20 19:31:50.150 [main] INFO  io.gatling.DeomApplication - Starting DeomApplication using Java 1.8.0_422 on MateBook-Pro.local with PID 19222 (/Users/zhangshuaibao/work/IdeaProjects/deom/target/classes started by zhangshuaibao in /Users/zhangshuaibao/work/IdeaProjects/deom)
+2024-11-20 19:31:50.155 [main] INFO  io.gatling.DeomApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-20 19:31:50.507 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:31:50.507 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-20 19:31:50.507 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.80]
+2024-11-20 19:31:50.537 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-20 19:31:50.683 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:31:50.700 [main] INFO  io.gatling.DeomApplication - Started DeomApplication in 0.712 seconds (JVM running for 0.933)
+2024-11-20 19:32:07.640 [main] INFO  io.gatling.DeomApplication - Starting DeomApplication using Java 1.8.0_422 on MateBook-Pro.local with PID 19226 (/Users/zhangshuaibao/work/IdeaProjects/deom/target/classes started by zhangshuaibao in /Users/zhangshuaibao/work/IdeaProjects/deom)
+2024-11-20 19:32:07.642 [main] INFO  io.gatling.DeomApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-20 19:32:08.009 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:32:08.010 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-20 19:32:08.010 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.80]
+2024-11-20 19:32:08.035 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-20 19:32:08.177 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:32:08.192 [main] INFO  io.gatling.DeomApplication - Started DeomApplication in 0.697 seconds (JVM running for 0.962)
+2024-11-20 19:32:28.355 [main] INFO  io.gatling.DeomApplication - Starting DeomApplication using Java 1.8.0_422 on MateBook-Pro.local with PID 19230 (/Users/zhangshuaibao/work/IdeaProjects/deom/target/classes started by zhangshuaibao in /Users/zhangshuaibao/work/IdeaProjects/deom)
+2024-11-20 19:32:28.358 [main] INFO  io.gatling.DeomApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-20 19:32:28.721 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:32:28.722 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-20 19:32:28.722 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.80]
+2024-11-20 19:32:28.751 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-20 19:32:28.902 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:32:28.917 [main] INFO  io.gatling.DeomApplication - Started DeomApplication in 0.725 seconds (JVM running for 0.965)
+2024-11-20 19:34:34.985 [main] INFO  io.gatling.DeomApplication - Starting DeomApplication using Java 1.8.0_422 on MateBook-Pro.local with PID 19245 (/Users/zhangshuaibao/work/IdeaProjects/deom/target/classes started by zhangshuaibao in /Users/zhangshuaibao/work/IdeaProjects/deom)
+2024-11-20 19:34:34.987 [main] INFO  io.gatling.DeomApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-20 19:34:35.316 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:34:35.317 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-20 19:34:35.317 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.80]
+2024-11-20 19:34:35.343 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-20 19:34:35.489 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:34:35.504 [main] INFO  io.gatling.DeomApplication - Started DeomApplication in 0.688 seconds (JVM running for 0.977)
+2024-11-20 19:35:48.805 [main] INFO  io.gatling.DeomApplication - Starting DeomApplication using Java 1.8.0_422 on MateBook-Pro.local with PID 19275 (/Users/zhangshuaibao/work/IdeaProjects/deom/target/classes started by zhangshuaibao in /Users/zhangshuaibao/work/IdeaProjects/deom)
+2024-11-20 19:35:48.808 [main] INFO  io.gatling.DeomApplication - No active profile set, falling back to 1 default profile: "default"
+2024-11-20 19:35:49.180 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:35:49.180 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-20 19:35:49.180 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.80]
+2024-11-20 19:35:49.211 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-20 19:35:49.366 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:35:49.384 [main] INFO  io.gatling.DeomApplication - Started DeomApplication in 0.752 seconds (JVM running for 1.022)
+2024-11-20 19:37:08.640 [main] INFO  io.gatling.DeomApplication - Starting DeomApplication using Java 1.8.0_422 on MateBook-Pro.local with PID 19291 (/Users/zhangshuaibao/work/IdeaProjects/deom/target/classes started by zhangshuaibao in /Users/zhangshuaibao/work/IdeaProjects/deom)
+2024-11-20 19:37:08.642 [main] INFO  io.gatling.DeomApplication - The following 1 profile is active: "test"
+2024-11-20 19:37:08.999 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:37:08.999 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-20 19:37:08.999 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.80]
+2024-11-20 19:37:09.029 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-20 19:37:09.179 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:37:09.202 [main] INFO  io.gatling.DeomApplication - Started DeomApplication in 0.743 seconds (JVM running for 1.0)
+2024-11-20 19:37:35.999 [main] INFO  io.gatling.DeomApplication - Starting DeomApplication using Java 1.8.0_422 on MateBook-Pro.local with PID 19297 (/Users/zhangshuaibao/work/IdeaProjects/deom/target/classes started by zhangshuaibao in /Users/zhangshuaibao/work/IdeaProjects/deom)
+2024-11-20 19:37:36.000 [main] INFO  io.gatling.DeomApplication - The following 1 profile is active: "test"
+2024-11-20 19:37:36.358 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:37:36.359 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-20 19:37:36.359 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.80]
+2024-11-20 19:37:36.390 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-20 19:37:36.542 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:37:36.565 [main] INFO  io.gatling.DeomApplication - Started DeomApplication in 0.753 seconds (JVM running for 0.994)
+2024-11-20 19:38:10.040 [main] INFO  io.gatling.DeomApplication - Starting DeomApplication using Java 1.8.0_422 on MateBook-Pro.local with PID 19308 (/Users/zhangshuaibao/work/IdeaProjects/deom/target/classes started by zhangshuaibao in /Users/zhangshuaibao/work/IdeaProjects/deom)
+2024-11-20 19:38:10.040 [main] INFO  io.gatling.DeomApplication - The following 1 profile is active: "test"
+2024-11-20 19:38:10.358 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:38:10.359 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-20 19:38:10.359 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.80]
+2024-11-20 19:38:10.388 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-20 19:38:10.406 [main] INFO  i.g.p.mock.MockBeanPostProcessor - demoServiceImpl: 扫描到 HTTP 接口
+2024-11-20 19:38:10.406 [main] INFO  i.g.p.mock.MockBeanPostProcessor - 为 demoServiceImpl 创建了代理对象: com.sun.proxy.$Proxy53
+2024-11-20 19:38:10.547 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:38:10.571 [main] INFO  io.gatling.DeomApplication - Started DeomApplication in 0.696 seconds (JVM running for 0.911)
+2024-11-20 19:38:22.252 [main] INFO  io.gatling.DeomApplication - Starting DeomApplication using Java 1.8.0_422 on MateBook-Pro.local with PID 19325 (/Users/zhangshuaibao/work/IdeaProjects/deom/target/classes started by zhangshuaibao in /Users/zhangshuaibao/work/IdeaProjects/deom)
+2024-11-20 19:38:22.253 [main] INFO  io.gatling.DeomApplication - The following 1 profile is active: "test"
+2024-11-20 19:38:22.583 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:38:22.583 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-20 19:38:22.583 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.80]
+2024-11-20 19:38:22.611 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-20 19:38:22.629 [main] INFO  i.g.p.mock.MockBeanPostProcessor - demoServiceImpl: 扫描到 HTTP 接口
+2024-11-20 19:38:22.630 [main] INFO  i.g.p.mock.MockBeanPostProcessor - 为 demoServiceImpl 创建了代理对象: com.sun.proxy.$Proxy53
+2024-11-20 19:38:22.768 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:38:22.793 [main] INFO  io.gatling.DeomApplication - Started DeomApplication in 0.719 seconds (JVM running for 0.935)
+2024-11-20 19:38:43.169 [main] INFO  io.gatling.DeomApplication - Starting DeomApplication using Java 1.8.0_422 on MateBook-Pro.local with PID 19352 (/Users/zhangshuaibao/work/IdeaProjects/deom/target/classes started by zhangshuaibao in /Users/zhangshuaibao/work/IdeaProjects/deom)
+2024-11-20 19:38:43.170 [main] INFO  io.gatling.DeomApplication - The following 1 profile is active: "test"
+2024-11-20 19:38:43.514 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:38:43.514 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-11-20 19:38:43.514 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.80]
+2024-11-20 19:38:43.544 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-11-20 19:38:43.562 [main] INFO  i.g.p.mock.MockBeanPostProcessor - demoServiceImpl: 扫描到 HTTP 接口
+2024-11-20 19:38:43.563 [main] INFO  i.g.p.mock.MockBeanPostProcessor - 为 demoServiceImpl 创建了代理对象: com.sun.proxy.$Proxy53
+2024-11-20 19:38:43.689 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2024-11-20 19:38:43.711 [main] INFO  io.gatling.DeomApplication - Started DeomApplication in 0.723 seconds (JVM running for 0.941)
